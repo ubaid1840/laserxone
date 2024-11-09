@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Laserxone",
+  title: "Laser Zone",
   description: "Premium Laser Cutting",
 };
 
