@@ -22,7 +22,7 @@ function Header() {
         <Text as={Link} href="/#why" fontSize={'lg'} fontWeight={'600'} _hover={{ textDecoration: 'none', color: 'gray.400' }}>Why</Text>
         <Text as={Link} href="/#products" fontSize={'lg'} fontWeight={'600'} _hover={{ textDecoration: 'none', color: 'gray.400' }}>Products</Text>
         <Text as={Link} href="/#clients" fontSize={'lg'} fontWeight={'600'} _hover={{ textDecoration: 'none', color: 'gray.400' }}>Clients</Text>
-        <Text as={Link} href="/contact" fontSize={'lg'} fontWeight={'600'} _hover={{ textDecoration: 'none', color: 'gray.400' }}>Contact</Text>
+        <Text as={Link} href="https://laserxone.com/contact" fontSize={'lg'} fontWeight={'600'} _hover={{ textDecoration: 'none', color: 'gray.400' }}>Contact</Text>
       </Flex>
       <Flex gap={6}>
 
