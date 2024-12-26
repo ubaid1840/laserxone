@@ -71,7 +71,7 @@ export default function Page() {
       .catch(() => {
         toast({
           title: "Failed",
-          description: "Message sending failed! Kindly retry again.",
+          description: "Message sending failed. Kindly retry again.",
           duration: 3000,
           isClosable: true,
           status : "error"
@@ -101,7 +101,7 @@ export default function Page() {
             </Heading>
             <Text fontSize={{ base: "lg", md: "xl" }} maxW="700px">
               Have questions or need assistance? Reach out to us using the form
-              below, and we'll be happy to assist you with precision laser
+              below, and we`&apos;ll be happy to assist you with precision laser
               solutions tailored to your needs.
             </Text>
           </Stack>
